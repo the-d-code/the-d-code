@@ -35,9 +35,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=the-d-code&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
+## 🐦 Latest Tweet or Pen
 [![](https://gtce.itsvg.in/api?username=the_d_Akbari)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ll_words_by_devanhi_ll)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
