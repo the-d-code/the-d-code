@@ -11,6 +11,14 @@
 [![](https://visitcount.itsvg.in/api?id=the-d-code&icon=7&color=3)](https://visitcount.itsvg.in)
 ----------------
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=the-d-code&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+
+## 🐦 Latest Tweet or Pen
+[![](https://gtce.itsvg.in/api?username=the_d_Akbari)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ll_words_by_devanshi_ll/)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devanshi.akbari.1) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_d_akbari)
@@ -32,15 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-d-code&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-d-code&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?the-d-code=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![](https://github-profile-trophy.vercel.app/?username=the-d-code&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet or Pen
-[![](https://gtce.itsvg.in/api?username=the_d_Akbari)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ll_words_by_devanshi_ll/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
