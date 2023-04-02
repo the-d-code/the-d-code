@@ -33,6 +33,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-d-code&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?the-d-code=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![](https://github-profile-trophy.vercel.app/?username=the-d-code&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet or Pen
