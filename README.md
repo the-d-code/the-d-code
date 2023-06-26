@@ -2,7 +2,7 @@
 # 💫 About Me:
 - Pursing master's degree in M.Sc. I.C.T. <br>
 - BCA'23 | VNSGU.<br>
-- JPDICT'26 | VNSGU.<br>
+- JPDICT'24 | VNSGU.<br>
 - 🔭 I’m currently master student<br>
 - 📚 I'm currently learning ASP.NET | iOS | MVC CORE | .NET <br>
 - ⚡ In my free time I used to learn something new and try to apply it and learn from my mistakes to understand it
