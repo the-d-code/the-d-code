@@ -1,6 +1,4 @@
-<p align="center"><a href="https://the-d-code.github.io"><img width="80%" alt="Hello, I'm Devanshi Akbari" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
 # 💫 About Me:
 - Pursing master's degree in M.Sc. I.C.T. <br>
 - BCA'23 | VNSGU.<br>
