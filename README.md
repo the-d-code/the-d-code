@@ -32,8 +32,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=the-d-code&icon=7&color=3"  />
+  <img src="https://visitcount.itsvg.in/api?id=the-d-code"  />
 </div>
+
+###
 
 <br clear="both">
 
@@ -182,3 +184,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=the-d-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=the-d-code&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
+
+###
