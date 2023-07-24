@@ -177,12 +177,16 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-d-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=codeSTACKr&hide_border=false&order=2" height="400" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=the-d-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=the-d-code&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=the-d-code&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
