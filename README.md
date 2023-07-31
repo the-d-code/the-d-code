@@ -172,15 +172,14 @@
 </div>
 
 ###
-
 <h3 align="left"> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
-###
+
 
 To see all the other badges are [here](https://www.credly.com/users/devanshi-akbari/badges)
 
 <!--START_SECTION:badges-->
 
-[![AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1](https://images.credly.com/size/100x100/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png)](https://www.credly.com/badges/7e06afef-ae5f-4a97-b40e-cde86c713084 "AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1")
+[![AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1](https://images.credly.com/size/150x150/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png)](https://www.credly.com/badges/7e06afef-ae5f-4a97-b40e-cde86c713084 "AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1")
 
 <!--END_SECTION:badges-->
 
