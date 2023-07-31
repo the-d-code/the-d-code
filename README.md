@@ -175,6 +175,7 @@
 
 <h3 align="left"> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
 ###
+
 To see all the other badges are [here](https://www.credly.com/users/devanshi-akbari/badges)
 
 <!--START_SECTION:badges-->
