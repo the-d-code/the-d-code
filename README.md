@@ -113,6 +113,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://netbeans.apache.org/images/apache-netbeans.svg" height="40" alt="Neatbeans"  />
+  <img width="12" />
+  <img src="https://www.sublimehq.com/images/sublime_text.png" height="40" alt="Sublime"  />
+  <img width="12" />
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" height="40" alt="VS"  />
 </div>
 
 ###
