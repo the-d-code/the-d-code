@@ -187,7 +187,7 @@ To see all the other badges are [here](https://www.credly.com/users/devanshi-akb
 
 [![AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1](https://images.credly.com/size/150x150/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png)](https://www.credly.com/badges/7e06afef-ae5f-4a97-b40e-cde86c713084 "AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1")[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://images.credly.com/size/150x150/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png)](https://www.credly.com/badges/db731c41-c1d3-4bc9-8d4c-64f8078292e6/public_url")
 
-<img width="500" alt="eUpPKQvwTZUF1OIcHrMK06zGg+D3tx5gbfJUJddnrxU=" href="https://www.cloudskillsboost.google/public_profiles/bf3ab074-9eed-45df-9f68-2fbfab9546cc/badges/4592115" src="https://github.com/the-d-code/the-d-code/assets/99545013/4f8fd098-79c1-4ac0-930a-d7f99b995e53">
+<img width="150" height="150" alt="eUpPKQvwTZUF1OIcHrMK06zGg+D3tx5gbfJUJddnrxU=" href="https://www.cloudskillsboost.google/public_profiles/bf3ab074-9eed-45df-9f68-2fbfab9546cc/badges/4592115" src="https://github.com/the-d-code/the-d-code/assets/99545013/4f8fd098-79c1-4ac0-930a-d7f99b995e53">
 
 <!--END_SECTION:badges-->
 
