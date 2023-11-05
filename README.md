@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/the-d-code/the-d-code/blob/main/Assets/D.gif?raw=true"  />
+  <img height="270" src="https://github.com/the-d-code/the-d-code/blob/main/Assets/D.gif?raw=true"  />
 </div>
 
 ###
